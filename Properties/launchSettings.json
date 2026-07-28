@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Semantic Kernal Console App": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "GITHUB_TOKEN": "PASTE_YOUR_NEW_FINE_GRAINED_PAT_HERE"
+      }
+    }
+  }
+}
