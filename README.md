@@ -105,6 +105,12 @@ GitHub Models is a prototyping tier with no SLA. Move to Azure OpenAI before bui
 - Logging is set to `LogLevel.Trace`, which prints the full serialized `ChatHistory` on every call. It's useful for seeing exactly when function calls happen — watch for `FunctionCallContent` in the output. Lower it to `Information` once the novelty wears off; the per-call token counts still print at that level.
 - Rate-limit responses (HTTP 429) are not handled and will terminate the chat loop.
 <img width="2827" height="342" alt="image" src="https://github.com/user-attachments/assets/387a7fc9-ec33-468a-a2a1-a49fb2c58d52" />
+<img width="1877" height="380" alt="image" src="https://github.com/user-attachments/assets/7a0df232-048a-49ab-a218-2694546451ce" />
+<img width="2780" height="460" alt="image" src="https://github.com/user-attachments/assets/03f043cf-193c-465c-9069-76946e546298" />
+<img width="2802" height="272" alt="image" src="https://github.com/user-attachments/assets/fcede9c0-0124-4239-8c09-66f00be274fc" />
+<img width="2190" height="350" alt="image" src="https://github.com/user-attachments/assets/40d0d11f-146f-4ab5-bbf4-35c1f0a8c1f6" />
+
+
 
 ## References
 
